@@ -1,4 +1,4 @@
-# UX-UI-Wireframe-de-M-dia-Fidelidade
+# UX-UI-Wireframe-de-Média-Fidelidade
 O Projeto é uma Home de um site com base na Apple.
 
 Figma:
